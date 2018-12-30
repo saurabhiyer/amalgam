@@ -1,0 +1,7 @@
+plugins {
+    id 'scala'
+}
+
+group 'org.amalgam'
+version '0.1'
+
